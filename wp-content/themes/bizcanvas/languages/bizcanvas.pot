@@ -1,0 +1,467 @@
+# Copyright (C) 2024 bizcanvas
+# This file is distributed under the same license as the bizcanvas package.
+msgid ""
+msgstr ""
+"Project-Id-Version: bizcanvas\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-06-08 16:17+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../functions.php:32
+msgid "BizCanvas"
+msgstr ""
+
+#: ../patterns/404.php:14
+msgid "404: Page Not Disco-vered"
+msgstr ""
+
+#: ../patterns/404.php:18
+msgid "Looks like the dance floor is empty here! This page has done a disappearing act. Head back to the main stage by clicking the navigation links, and let's keep the party going!"
+msgstr ""
+
+#: ../patterns/404.php:25
+msgid "Go to home page"
+msgstr ""
+
+#: ../patterns/about-banner.php:14
+msgid "Pleasure and so read the was hope."
+msgstr ""
+
+#: ../patterns/about-banner.php:18, ../patterns/banner-with-header.php:28, ../patterns/banner-with-search.php:14
+msgid "Ready to take your"
+msgstr ""
+
+#: ../patterns/about-banner.php:18, ../patterns/banner-default.php:14, ../patterns/banner-with-header.php:28, ../patterns/banner-with-search.php:14
+msgid "Business Growth"
+msgstr ""
+
+#: ../patterns/about-banner.php:18, ../patterns/banner-default.php:14, ../patterns/banner-with-header.php:28, ../patterns/banner-with-search.php:14
+msgid "to the next level?"
+msgstr ""
+
+#: ../patterns/about-banner.php:22, ../patterns/banner-default.php:18, ../patterns/banner-with-header.php:32, ../patterns/banner-with-search.php:18, ../patterns/contact.php:18, ../patterns/our-mission.php:21
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit- et ut massa libero egestas malesuada viverra gravida libero cursus nulla leo pulvinar."
+msgstr ""
+
+#: ../patterns/about-banner.php:32
+msgid "Rated 4.9/5 stars"
+msgstr ""
+
+#: ../patterns/about.php:20
+msgid "About Us"
+msgstr ""
+
+#: ../patterns/about.php:24
+msgid "The core mission"
+msgstr ""
+
+#: ../patterns/about.php:24
+msgid "behind all our"
+msgstr ""
+
+#: ../patterns/about.php:24
+msgid "Work"
+msgstr ""
+
+#: ../patterns/about.php:28
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit metus ut tortor purus tincidunt sed lectus ut eros, turpis tincidunt id."
+msgstr ""
+
+#: ../patterns/about.php:34
+msgid "330+"
+msgstr ""
+
+#: ../patterns/about.php:38
+msgid "Companies helped"
+msgstr ""
+
+#: ../patterns/about.php:44
+msgid "220+"
+msgstr ""
+
+#: ../patterns/about.php:48
+msgid "Revenue generated"
+msgstr ""
+
+#: ../patterns/about.php:55, ../patterns/banner-default.php:23, ../patterns/banner-with-header.php:37, ../patterns/cta.php:17
+msgid "Start your Free Trial"
+msgstr ""
+
+#: ../patterns/archive-product.php:54
+msgid " No products were found matching your selection."
+msgstr ""
+
+#: ../patterns/archive.php:41
+msgid " No posts found "
+msgstr ""
+
+#: ../patterns/articles.php:12
+msgid " News "
+msgstr ""
+
+#: ../patterns/articles.php:16
+msgid "Recent News"
+msgstr ""
+
+#: ../patterns/articles.php:16
+msgid "Articles"
+msgstr ""
+
+#: ../patterns/articles.php:38
+msgid " View All Articles "
+msgstr ""
+
+#: ../patterns/banner-default.php:14
+msgid "Ready to take your "
+msgstr ""
+
+#: ../patterns/banner-default.php:27
+msgid "Contact Us"
+msgstr ""
+
+#: ../patterns/banner-with-header.php:18
+msgid "Get in touch "
+msgstr ""
+
+#: ../patterns/banner-with-header.php:43, ../patterns/banner-with-search.php:25
+msgid "Trusted by Leading Brands"
+msgstr ""
+
+#: ../patterns/blog-left.php:9
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: ../patterns/blog-left.php:50, ../patterns/blog-right.php:47
+msgid " No posts found"
+msgstr ""
+
+#: ../patterns/blog-right.php:10
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: ../patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr ""
+
+#: ../patterns/cart.php:74
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: ../patterns/cart.php:82
+msgid "New in store"
+msgstr ""
+
+#: ../patterns/contact.php:14
+msgid "Let's Talk"
+msgstr ""
+
+#: ../patterns/contact.php:28
+msgid "info@example.com"
+msgstr ""
+
+#: ../patterns/contact.php:40, ../patterns/footer-normal.php:29, ../patterns/footer.php:83
+msgid "+01-123-4567"
+msgstr ""
+
+#: ../patterns/contact.php:52
+msgid "Example Street 123, NYC"
+msgstr ""
+
+#: ../patterns/contact.php:61
+msgid "Your Contact Form"
+msgstr ""
+
+#: ../patterns/counter.php:14
+msgid "200+"
+msgstr ""
+
+#: ../patterns/counter.php:18
+msgid "We’re a family"
+msgstr ""
+
+#: ../patterns/counter.php:22, ../patterns/counter.php:38, ../patterns/counter.php:54
+msgid "Aenean vulputate eleifend tellus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis."
+msgstr ""
+
+#: ../patterns/counter.php:30
+msgid "99%"
+msgstr ""
+
+#: ../patterns/counter.php:34, ../patterns/services.php:44
+msgid "Graphic Design"
+msgstr ""
+
+#: ../patterns/counter.php:46
+msgid "1.5M+"
+msgstr ""
+
+#: ../patterns/counter.php:50, ../patterns/services.php:60
+msgid "Digital Marketing"
+msgstr ""
+
+#: ../patterns/cta.php:12
+msgid "Enough talk, let’s get to work"
+msgstr ""
+
+#: ../patterns/footer-normal.php:15, ../patterns/footer.php:69
+msgid "Designed By"
+msgstr ""
+
+#: ../patterns/footer-normal.php:19, ../patterns/footer.php:73
+msgid "Themegrove.com"
+msgstr ""
+
+#: ../patterns/footer-normal.php:25, ../patterns/footer.php:79
+msgid "Call Us"
+msgstr ""
+
+#: ../patterns/footer-normal.php:35, ../patterns/footer.php:89
+msgid "Address"
+msgstr ""
+
+#: ../patterns/footer-normal.php:39, ../patterns/footer.php:93
+msgid "119 Tanglewood Lane Gulfport, MS 39503"
+msgstr ""
+
+#: ../patterns/footer-normal.php:45, ../patterns/footer.php:99
+msgid "Follow Us"
+msgstr ""
+
+#: ../patterns/footer.php:22
+msgid "Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. Curabitur nisi. Sed aliquam ultrices mauris."
+msgstr ""
+
+#: ../patterns/footer.php:28
+msgid "Pages"
+msgstr ""
+
+#: ../patterns/footer.php:40
+msgid "Utility Pages"
+msgstr ""
+
+#: ../patterns/footer.php:52
+msgid "Suscribe Us"
+msgstr ""
+
+#: ../patterns/footer.php:60
+msgid "Your Form Short Code"
+msgstr ""
+
+#: ../patterns/header.php:18
+msgid "Get in touch"
+msgstr ""
+
+#: ../patterns/our-mission.php:13
+msgid "Our Mission"
+msgstr ""
+
+#: ../patterns/our-mission.php:17
+msgid "Boost your business with us."
+msgstr ""
+
+#: ../patterns/our-mission.php:27
+msgid "Moonlight newspaper up its"
+msgstr ""
+
+#: ../patterns/our-mission.php:27
+msgid "enjoyment"
+msgstr ""
+
+#: ../patterns/our-mission.php:31, ../patterns/our-mission.php:35
+msgid "She new course gets living."
+msgstr ""
+
+#: ../patterns/our-mission.php:41
+msgid "Rooms oh fully taken by worse."
+msgstr ""
+
+#: ../patterns/our-mission.php:45
+msgid "Perceived end certainly day."
+msgstr ""
+
+#: ../patterns/our-mission.php:49
+msgid "Preference any astonished"
+msgstr ""
+
+#: ../patterns/our-mission.php:49
+msgid "unreserved Mrs."
+msgstr ""
+
+#: ../patterns/our-mission.php:61
+msgid "10K"
+msgstr ""
+
+#: ../patterns/our-mission.php:65
+msgid "Great conversations"
+msgstr ""
+
+#: ../patterns/our-mission.php:65
+msgid "per month"
+msgstr ""
+
+#: ../patterns/our-mission.php:81
+msgid "95+"
+msgstr ""
+
+#: ../patterns/our-mission.php:85
+msgid "Project Complete"
+msgstr ""
+
+#: ../patterns/portfolio-two.php:12
+msgid "Recent Showcase"
+msgstr ""
+
+#: ../patterns/portfolio-two.php:25, ../patterns/portfolio-two.php:47, ../patterns/portfolio-two.php:69, ../patterns/portfolio-two.php:93, ../patterns/portfolio-two.php:115, ../patterns/portfolio-two.php:137, ../patterns/portfolio-two.php:161, ../patterns/portfolio-two.php:183, ../patterns/portfolio-two.php:205, ../patterns/portfolio.php:30, ../patterns/portfolio.php:54, ../patterns/portfolio.php:86, ../patterns/portfolio.php:110
+msgid "Web UI design"
+msgstr ""
+
+#: ../patterns/portfolio-two.php:29, ../patterns/portfolio-two.php:51, ../patterns/portfolio-two.php:73, ../patterns/portfolio-two.php:97, ../patterns/portfolio-two.php:119, ../patterns/portfolio-two.php:141, ../patterns/portfolio-two.php:165, ../patterns/portfolio-two.php:187, ../patterns/portfolio-two.php:209, ../patterns/portfolio.php:34, ../patterns/portfolio.php:58, ../patterns/portfolio.php:90, ../patterns/portfolio.php:114
+msgid "Creative UI design"
+msgstr ""
+
+#: ../patterns/portfolio-two.php:215, ../patterns/portfolio.php:120
+msgid "View More"
+msgstr ""
+
+#: ../patterns/portfolio.php:12
+msgid "Portfolio"
+msgstr ""
+
+#: ../patterns/post.php:42, ../patterns/search.php:54
+msgid "No posts found"
+msgstr ""
+
+#: ../patterns/process.php:12
+msgid "Process"
+msgstr ""
+
+#: ../patterns/process.php:16
+msgid "Process that moves"
+msgstr ""
+
+#: ../patterns/process.php:16
+msgid "things forward"
+msgstr ""
+
+#: ../patterns/process.php:33
+msgid "Ideate"
+msgstr ""
+
+#: ../patterns/process.php:38, ../patterns/process.php:60, ../patterns/process.php:82, ../patterns/process.php:104, ../patterns/services.php:32, ../patterns/services.php:48, ../patterns/services.php:64, ../patterns/services.php:82, ../patterns/services.php:98, ../patterns/services.php:114
+msgid "Our team creates engaging and shareable content that resonates with your audience, drives organic traffic"
+msgstr ""
+
+#: ../patterns/process.php:55
+msgid "Research"
+msgstr ""
+
+#: ../patterns/process.php:77
+msgid "Create"
+msgstr ""
+
+#: ../patterns/process.php:99
+msgid "Testing"
+msgstr ""
+
+#: ../patterns/services.php:12
+msgid "Our Services"
+msgstr ""
+
+#: ../patterns/services.php:16
+msgid "High-impact services"
+msgstr ""
+
+#: ../patterns/services.php:16
+msgid "for your business"
+msgstr ""
+
+#: ../patterns/services.php:28
+msgid "Content Marketing"
+msgstr ""
+
+#: ../patterns/services.php:78
+msgid "Web Design"
+msgstr ""
+
+#: ../patterns/services.php:94
+msgid "IT Consulting"
+msgstr ""
+
+#: ../patterns/services.php:110
+msgid "Brand Identity"
+msgstr ""
+
+#: ../patterns/sidebar.php:15
+msgid "Latest Posts"
+msgstr ""
+
+#: ../patterns/sidebar.php:23
+msgid "Categories"
+msgstr ""
+
+#: ../patterns/sidebar.php:31
+msgid "Tags"
+msgstr ""
+
+#: ../patterns/single-product.php:46
+msgid "Related Products"
+msgstr ""
+
+#: ../patterns/team.php:11
+msgid "Our Team"
+msgstr ""
+
+#: ../patterns/team.php:28
+msgid "Esther Howards"
+msgstr ""
+
+#: ../patterns/team.php:32
+msgid "Founder"
+msgstr ""
+
+#: ../patterns/team.php:32
+msgid "CEO"
+msgstr ""
+
+#: ../patterns/team.php:50
+msgid "Cameron Williamson"
+msgstr ""
+
+#: ../patterns/team.php:54
+msgid "Content Writer"
+msgstr ""
+
+#: ../patterns/team.php:72
+msgid "Liam Cooper"
+msgstr ""
+
+#: ../patterns/team.php:76
+msgid "Graphic Designer"
+msgstr ""
+
+#: ../patterns/team.php:94
+msgid "John Doe"
+msgstr ""
+
+#: ../patterns/team.php:98
+msgid "Senior Developer"
+msgstr ""
+
+#: ../patterns/testimonials.php:18, ../patterns/testimonials.php:38, ../patterns/testimonials.php:58
+msgid "“Be genuine in your assessment, and provide constructive feedback to benefit both potential customers and the company providing the product or service.”"
+msgstr ""
+
+#: ../patterns/testimonials.php:22, ../patterns/testimonials.php:42, ../patterns/testimonials.php:62
+msgid "Jacqueline Miller"
+msgstr ""
+
+#: ../patterns/testimonials.php:26, ../patterns/testimonials.php:46, ../patterns/testimonials.php:66
+msgid "CEO of an eduport"
+msgstr ""
